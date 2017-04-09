@@ -139,3 +139,4 @@ Dictionary comprehension: I will create a dictionary that should hold the state 
 
 * What will your output look like? Will it be a .txt file? a CSV file? something else? What information will it contain? >>>This is especially important if you are doing Option 3, but it's important for everyone!<<<
 
+My output should be a text file and information in a database file format.
